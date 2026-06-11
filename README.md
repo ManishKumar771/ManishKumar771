@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+Developer;Building+AI+Projects;Future+AI+Engineer" />
+</p>
 
 <!--
 **ManishKumar771/ManishKumar771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
