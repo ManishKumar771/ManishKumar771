@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+Developer;Building+AI+Projects;Future+AI+Engineer" />
+  <img src="git-hub-banner.png" alt="Banner">
 </p>
 
 <!--
