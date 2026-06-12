@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/5a74f890-80f0-421c-8177-7bec57def60f" />
-" alt="Banner">
-</p>
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/39ac401b-685a-4dfe-82ad-07c1763a8bd9" />
+
 
 <!--
 **ManishKumar771/ManishKumar771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
