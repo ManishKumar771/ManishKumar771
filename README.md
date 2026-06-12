@@ -1,15 +1,18 @@
-# <div align="center"> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/48a0f74f-aa18-4c66-98ba-7f64682f3544" />
-**Welcome to My Digital Universe** </div>
-
-
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+# <div align="center">🌟 **Welcome to My Digital Universe** 🌟</div>
 
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/39ac401b-685a-4dfe-82ad-07c1763a8bd9" />
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=🦅+Automating+Tomorrow%2C+Today!;🧠+Building+ML+Pipelines;☁️+Cloud-Native+Solutions+Architect;🤖+AI-Powered+DevOps+Engineer" alt="Typing SVG" />
+</div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" alt="Coding Animation"/>
+</div>
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 <!--
 **ManishKumar771/ManishKumar771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
