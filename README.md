@@ -23,11 +23,10 @@
 
 
 --- 
-# <div align="center">⚔️ **SKILLS** 🐧</div>
+
 
 <p align="center">
-  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-  <img align="right" src="https://giffiles.alphacoders.com/128/12865.gif" width="200">
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </p>
 
 
@@ -35,6 +34,8 @@
 <img width="400" height="40" alt="image" src="https://giffiles.alphacoders.com/128/12865.gif"/>
 <!--
 **ManishKumar771/ManishKumar771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+# <div align="center">⚔️ **SKILLS** 🐧</div>
 
 Here are some ideas to get you started:
 
