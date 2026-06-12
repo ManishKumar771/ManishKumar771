@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="git-hub-banner.png" alt="Banner">
+  <img src="<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/5a74f890-80f0-421c-8177-7bec57def60f" />
+" alt="Banner">
 </p>
 
 <!--
