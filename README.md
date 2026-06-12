@@ -7,6 +7,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=🦅+Automating+Tomorrow%2C+Today!;🧠+Building+ML+Pipelines;☁️+Cloud-Native+Solutions+Architect;🤖+AI-Powered+DevOps+Engineer" alt="Typing SVG" />
 </div>
+
+
 ----
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
