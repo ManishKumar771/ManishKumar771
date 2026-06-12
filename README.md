@@ -1,4 +1,5 @@
-# <div align="center"> **Welcome to My Digital Universe** </div>
+# <div align="center"> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/48a0f74f-aa18-4c66-98ba-7f64682f3544" />
+**Welcome to My Digital Universe** </div>
 
 
 
