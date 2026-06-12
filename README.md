@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=🦅+Automating+Tomorrow%2C+Today!;🧠+Building+ML+Pipelines;☁️+Cloud-Native+Solutions+Architect;🤖+AI-Powered+DevOps+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=⚡+Automating+Tomorrow%2C+Today!;🧠+Building+ML+Pipelines;☁️+Cloud-Native+Solutions+Architect;🤖+AI-Powered+DevOps+Engineer" alt="Typing SVG" />
 </div>
 
 
@@ -20,10 +20,19 @@
 ----
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+
+---# <div align="center">⚔️ **SKILLS** 🐧</div>
+
+
+<img width="468" height="40" alt="image" src="https://github.com/user-attachments/assets/d48285ca-97bb-4b35-8eae-d50dd215041c" />
 <!--
 **ManishKumar771/ManishKumar771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+<img width="468" height="40" alt="image" src="https://github.com/user-attachments/assets/d48285ca-97bb-4b35-8eae-d50dd215041c" />
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -34,3 +43,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
