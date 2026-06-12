@@ -22,10 +22,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 
----# <div align="center">⚔️ **SKILLS** 🐧</div>
+--- 
+# <div align="center">⚔️ **SKILLS** 🐧</div>
 
 
-<img width="468" height="40" alt="image" src="https://github.com/user-attachments/assets/d48285ca-97bb-4b35-8eae-d50dd215041c" />
+<img width="468" height="40" alt="image" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 <!--
 **ManishKumar771/ManishKumar771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
