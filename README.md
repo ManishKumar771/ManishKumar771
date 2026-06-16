@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <img width="468" height="40" alt="image" src="https://github.com/user-attachments/assets/d48285ca-97bb-4b35-8eae-d50dd215041c" />
 
--->
+
 
 
 - 🔭 I’m currently working on ...
@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+-->
